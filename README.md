@@ -3,8 +3,7 @@
 ![image](https://user-images.githubusercontent.com/80331166/121726742-967ec780-cb08-11eb-99ca-33b44e91f289.png)
 
 Tasks:
-You have to submit the screen shot of every answer/query with output otherwise no marks 
-will be given.
+
 1. Write an SQL query to fetch “FIRST_NAME” from Worker table using the alias name as
 <WORKER_NAME>.
 2. Write an SQL query to fetch “FIRST_NAME” from Worker table in uppercase.
